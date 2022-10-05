@@ -1,15 +1,14 @@
 import React from "react";
 import { Tooltip } from "react-bootstrap";
 import {
-  CartesianGrid,
-  Legend,
+  
   Line,
   LineChart,
   ResponsiveContainer,
   XAxis,
   YAxis,
 } from "recharts";
-import { Data } from "./Data";
+
 
 const TransactionChart = ({ data }) => {
   return (
