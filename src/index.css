@@ -1,0 +1,35 @@
+@import url("https://fonts.googleapis.com/css2?family=Inter:wght@300;500;600;700;900&family=Montserrat:wght@300;400;500;600;700;800&family=Poppins:wght@400;500;600;700&display=swap");
+
+body {
+  /* background-color: #172026 !important; */
+  background-color: #e0ded0 !important;
+  /* font-family: "Inter", sans-serif; */
+  /* font-family: "Montserrat", sans-serif; */
+  font-family: "Poppins", sans-serif;
+}
+
+th,
+td,
+tr {
+  padding: 6px !important;
+  text-align: center !important;
+  border-radius: 8px !important;
+}
+
+input,
+select,
+button {
+  border-radius: 6px;
+  border: none;
+  outline: none;
+  height: 100%;
+  text-indent: 4px;
+  font-size: 12px;
+}
+
+button {
+  background-color: #25312d;
+  color: white;
+  padding: 4px;
+  border-radius: 4px !important;
+}
